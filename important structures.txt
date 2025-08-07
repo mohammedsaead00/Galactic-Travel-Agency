@@ -1,0 +1,9 @@
+dotnet new console -n MyApp
+cd MyApp
+
+
+
+using System;
+using System.Diagnostics;
+using System.IO.Pipelines;
+namespace TourOfCsharp;
